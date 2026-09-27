@@ -6,7 +6,7 @@ import { Newspaper, Target, Eye, Users, MapPin } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'About Us | North West Times',
   description:
-    'Learn about North West Times — our mission, our values, and our commitment to serving the North West Province community.',
+    'Learn about North West Times - our mission, our values, and our commitment to serving the North West Province community.',
   openGraph: {
     title: 'About North West Times',
     description: 'Community-focused news for the North West Province, South Africa.',
@@ -30,7 +30,7 @@ const pillars = [
     icon: <Users className="w-6 h-6 text-[var(--gold)]" aria-hidden="true" />,
     title: 'Community First',
     description:
-      'We prioritise stories that matter to ordinary people — from road upgrades in Mahikeng to bursary deadlines for students in Potchefstroom.',
+      'We prioritise stories that matter to ordinary people - from road upgrades in Mahikeng to bursary deadlines for students in Potchefstroom.',
   },
   {
     icon: <MapPin className="w-6 h-6 text-[var(--gold)]" aria-hidden="true" />,
@@ -89,7 +89,7 @@ export default function AboutPage() {
                 North West Times was founded with a simple but powerful belief: residents of the North West Province deserve a dedicated, reliable, and accessible news platform that understands their communities and their challenges.
               </p>
               <p>
-                Too often, major national publications overlook the stories that matter most to people living in Mahikeng, Rustenburg, Klerksdorp, and Potchefstroom. Road upgrades, local elections, school infrastructure, mining employment, and university applications — these are the stories that shape daily life in the province, and they are the stories we tell.
+                Too often, major national publications overlook the stories that matter most to people living in Mahikeng, Rustenburg, Klerksdorp, and Potchefstroom. Road upgrades, local elections, school infrastructure, mining employment, and university applications - these are the stories that shape daily life in the province, and they are the stories we tell.
               </p>
               <p>
                 Beyond news, we recognise that access to economic and educational opportunities is life-changing. That is why North West Times dedicates equal prominence to job listings, bursary opportunities, and tertiary application information. We believe that information is empowerment.

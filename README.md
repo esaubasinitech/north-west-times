@@ -88,7 +88,7 @@ Ensure the following build settings in your Vercel project:
 
 * **Install Command**: `pnpm install`
 * **Build Command**: `pnpm build`
-* **Output Directory**: *(leave empty — Vercel handles Next.js output)*
+* **Output Directory**: *(leave empty - Vercel handles Next.js output)*
 
 Vercel will auto‑detect the Next.js framework and optimize accordingly.
 

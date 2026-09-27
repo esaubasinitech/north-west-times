@@ -16,7 +16,7 @@ const sourceSans = Source_Sans_3({
 })
 
 export const metadata: Metadata = {
-  title: 'North West Times — Your Trusted Regional News Source',
+  title: 'North West Times - Your Trusted Regional News Source',
   description:
     'North West Times covers local news, jobs, bursaries, and tertiary applications for residents of the North West Province, South Africa.',
   generator: 'v0.app',

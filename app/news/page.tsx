@@ -8,7 +8,7 @@ import { articles, trendingArticles, type Category } from '@/lib/data'
 
 export const metadata: Metadata = {
   title: 'News | North West Times',
-  description: 'Browse the latest news from the North West Province — politics, community, business, education, and events.',
+  description: 'Browse the latest news from the North West Province - politics, community, business, education, and events.',
   openGraph: {
     title: 'News | North West Times',
     description: 'Browse the latest news from the North West Province.',

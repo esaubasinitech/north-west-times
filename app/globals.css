@@ -5,7 +5,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* North West Times — Deep Blue / White / Gold palette */
+  /* North West Times - Deep Blue / White / Gold palette */
   --background: oklch(0.99 0 0);
   --foreground: oklch(0.13 0.02 255);
   --card: oklch(1 0 0);

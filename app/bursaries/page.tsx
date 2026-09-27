@@ -8,7 +8,7 @@ import { GraduationCap, Info } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Bursaries | North West Times',
   description:
-    'Discover bursary opportunities available to students from the North West Province — from mining companies, government, and financial institutions.',
+    'Discover bursary opportunities available to students from the North West Province - from mining companies, government, and financial institutions.',
   openGraph: {
     title: 'Bursaries | North West Times',
     description: 'Bursary opportunities for North West Province students.',

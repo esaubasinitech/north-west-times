@@ -79,7 +79,7 @@ Construction is expected to commence in May 2026, with completion scheduled for 
   {
     id: '2',
     slug: 'nwu-2027-applications',
-    title: 'North-West University Opens 2027 Applications — Deadline Extended',
+    title: 'North-West University Opens 2027 Applications - Deadline Extended',
     excerpt:
       'NWU has announced that applications for the 2027 academic year are now open across all three campuses, with the deadline extended to 30 September 2026.',
     body: `North-West University (NWU) has officially opened applications for the 2027 academic year across its Mahikeng, Potchefstroom, and Vanderbijlpark campuses.
@@ -146,7 +146,7 @@ This year's theme, "Wortels / Roots", will celebrate the cultural heritage of th
 
 Early bird tickets go on sale from 1 May 2026 on the Computicket platform. The festival offers student discounts and free community events throughout the week.
 
-"Aardklop is not just a festival — it is a celebration of who we are," said festival director Anél van Heerden.`,
+"Aardklop is not just a festival - it is a celebration of who we are," said festival director Anél van Heerden.`,
     category: 'Events',
     author: 'Corné van der Berg',
     publishDate: '2026-03-03',

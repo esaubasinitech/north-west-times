@@ -39,7 +39,7 @@ export default function ApplicationsPage() {
           <div className="text-sm font-sans">
             <p className="font-semibold text-foreground">Important Note</p>
             <p className="text-muted-foreground leading-relaxed mt-0.5">
-              Application dates are updated as institutions announce them. Always verify directly on the institution&apos;s official website before applying. NSFAS applications run concurrently — visit{' '}
+              Application dates are updated as institutions announce them. Always verify directly on the institution&apos;s official website before applying. NSFAS applications run concurrently - visit{' '}
               <a href="https://www.nsfas.org.za" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">
                 nsfas.org.za
               </a>{' '}
